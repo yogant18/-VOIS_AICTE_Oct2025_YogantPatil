@@ -6,9 +6,8 @@
 **Airbnb Hotel Booking Data Analysis Project**  
 **VOIS AICTE Internship – October 2025**  
 **Student:** Yogant Patil  
-**AICTE Internship Student Registration ID:** STU6877adcccdd2b1752673740  
-**Student ID (Enrolment number):** 12100122106  
-
+**AICTE Internship Student Registration ID:** INTERNSHIP_17546440516895be537820f  
+**Student ID (Enrolment number):** APPLY_175574871568a6996b97375  
 ---
 
 ## 📋 Project Overview  
@@ -57,22 +56,17 @@ This analysis was completed entirely in **Google Colab**, demonstrating proficie
 
 ---
 
-## 🚀 How to Run this Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/YourUsername/VOIS_AICTE_Oct2025_Tanmoy_Santra.git
-Navigate to the project folder:
+# 🚀 How to Run this Project  
 
-bash
-Copy code
-cd VOIS_AICTE_Oct2025_YogantPatil
-Place the dataset file (1730285881-Airbnb_Open_Data.xlsx) in the same folder.
+- **Clone the repository:**  
+  `https://github.com/yogant18/-VOIS_AICTE_Oct2025_YogantPatil.git`  
 
-Open and run the notebook file:
+- **Navigate to the directory:**  
+  `cd VOIS_AICTE_Oct2025_YogantPatil`  
 
-Copy code
-AIRBNB_Hotel_Booking_Analysis.ipynb
-in Google Colab or Jupyter Notebook with the required libraries installed.
+- **Ensure you have the dataset** (`1730285881-Airbnb_Open_Data.xlsx`) in the same folder.  
+
+- **Open and run the Jupyter Notebook** (`AIRBNB_Hotel_Booking_Analysis.ipynb`) in Google Colab or Jupyter Notebook with the required libraries installed.  
 
 ## 📊 Summary of Findings
 Property & Location: Entire home/apt is the most common type; Manhattan and Brooklyn dominate listing counts.
@@ -83,8 +77,9 @@ Host Performance: A few professional hosts own hundreds of listings, indicating 
 
 Guest Satisfaction: Review scores remain fairly consistent across room types and neighborhoods (~3–4 out of 5).
 
-## 👨‍💻 Author
-Name: Yogant Patil
-AICTE Internship Student Registration ID: STU6877adcccdd2b1752673740
-Student ID (Enrolment number): 12100122106
-Program: VOIS – AICTE Virtual Internship (October 2025)
+## 👨‍💻 Author  
+
+- **Name:** Yogant Patil  
+- **AICTE Internship Student ID:** INTERNSHIP_17546440516895be537820f         
+- **Student ID (Enrolment number):** : APPLY_175574871568a6996b97375   
+- **Program:** VOIS – AICTE Virtual Internship (October 2025)  
