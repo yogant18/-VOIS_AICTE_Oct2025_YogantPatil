@@ -1,11 +1,11 @@
-# -VOIS_AICTE_Oct2025_YogantPatil
 
-# VOIS_AICTE_Oct2025_Tanmoy_Santra  
+
+# VOIS_AICTE_Oct2025_YogantPatil 
 ## Airbnb Hotel Booking Analysis  
 
 **Airbnb Hotel Booking Data Analysis Project**  
 **VOIS AICTE Internship – October 2025**  
-**Student:** Tanmoy Santra  
+**Student:** Yogant Patil  
 **AICTE Internship Student Registration ID:** STU6877adcccdd2b1752673740  
 **Student ID (Enrolment number):** 12100122106  
 
@@ -65,7 +65,7 @@ Navigate to the project folder:
 
 bash
 Copy code
-cd VOIS_AICTE_Oct2025_Tanmoy_Santra
+cd VOIS_AICTE_Oct2025_YogantPatil
 Place the dataset file (1730285881-Airbnb_Open_Data.xlsx) in the same folder.
 
 Open and run the notebook file:
@@ -74,7 +74,7 @@ Copy code
 AIRBNB_Hotel_Booking_Analysis.ipynb
 in Google Colab or Jupyter Notebook with the required libraries installed.
 
-📊 Summary of Findings
+## 📊 Summary of Findings
 Property & Location: Entire home/apt is the most common type; Manhattan and Brooklyn dominate listing counts.
 
 Pricing: Queens shows the highest average listing prices, with strong positive correlation between price and service fee.
@@ -83,8 +83,8 @@ Host Performance: A few professional hosts own hundreds of listings, indicating 
 
 Guest Satisfaction: Review scores remain fairly consistent across room types and neighborhoods (~3–4 out of 5).
 
-👨‍💻 Author
-Name: Tanmoy Santra
+## 👨‍💻 Author
+Name: Yogant Patil
 AICTE Internship Student Registration ID: STU6877adcccdd2b1752673740
 Student ID (Enrolment number): 12100122106
 Program: VOIS – AICTE Virtual Internship (October 2025)
